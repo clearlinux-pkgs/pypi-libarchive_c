@@ -4,7 +4,7 @@
 #
 Name     : pypi-libarchive_c
 Version  : 4.0
-Release  : 58
+Release  : 59
 URL      : https://files.pythonhosted.org/packages/93/c4/d8fa5dfcfef8aa3144ce4cfe4a87a7428b9f78989d65e9b4aa0f0beda5a8/libarchive-c-4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/93/c4/d8fa5dfcfef8aa3144ce4cfe4a87a7428b9f78989d65e9b4aa0f0beda5a8/libarchive-c-4.0.tar.gz
 Summary  : Python interface to libarchive
