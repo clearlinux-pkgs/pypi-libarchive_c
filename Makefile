@@ -1,5 +1,5 @@
 PKG_NAME := pypi-libarchive_c
-URL = https://files.pythonhosted.org/packages/a0/f9/3b6cd86e683a06bc28b9c2e1d9fe0bd7215f2750fd5c85dce0df96db8eca/libarchive-c-5.1.tar.gz
+URL = https://files.pythonhosted.org/packages/bc/0d/c45fe1307564cf550a407fca69cab3969a093d1d41bcd633b278440b4c30/libarchive_c-5.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
